@@ -4,10 +4,7 @@ body {
   margin: 0;
 }
 
-h1 {
-    font-family:'Courier Prime', 'Consolas', 'Mono-Spaced';
-}
-p {
+html * {
     font-family:'Courier Prime', 'Consolas', 'Mono-Spaced';
 }
 
