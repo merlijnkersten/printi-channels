@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime');
+
+body {
+  margin: 0;
+}
+
+h1 {
+    font-family:'Courier Prime', 'Consolas', 'Mono-Spaced';
+}
+p {
+    font-family:'Courier Prime', 'Consolas', 'Mono-Spaced';
+}
+
+img {
+  max-width: 100%;
+}
